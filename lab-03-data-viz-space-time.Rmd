@@ -40,6 +40,8 @@ states <- read_csv("data/states.csv")
 
 ### Exercise 8
 
+(Note that the exercises below should use only US data. Make sure to include appropriate code to filter the data for US.)
+
 ### Exercise 9
 
 ### Exercise 10
